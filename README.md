@@ -4,7 +4,10 @@ There are a number of resources relating to technical writing, scattered around 
 ## Articles
 
 ### 'How to Write with Style' by Kurt Vonnegut
-Vonnegut presents 8 concise rules. He reminds us to 'sound like ourselves' -- something which is perhaps more difficult but still important in technical writing. http://www.novelr.com/2008/08/16/vonnegut-how-to-write-with-style
+Vonnegut presents 8 concise rules. He reminds us to 'sound like ourselves' -- something which is perhaps more difficult but still important in technical writing. http://www.novelr.com/2008/08/16/vonnegut-how-to-write-with-style.
+
+### Material.io's writing guide
+This aims at language use for user interfaces, but it has many nice rules with concrete, short examples for each. The sections on Tone and Punctuation are applicable to general technical writing.
 
 ## Books
 
