@@ -22,4 +22,11 @@ This book teaches the lost art of rhetoric in a highly entertaining fashion. Eac
 ### 'On Writing' by Stephen King
 This book is half an autobiography of Stephen King and half writing advice. Although it is aimed more at fiction writers, the advice is generic and sound and the personal describing the hardships King went through before becoming a famous writer are inspiring.
 
+## Meta
+*Something as meta as writing about writing would be complete without a meta section of its own. Here are some articles that already collect and describe other works on writing.*
+
+### Good Plain English: The problem with writing manuals 
+Nat Segnit discusses six books about writing. Nat gives some entertaining examples, some focused on contemporary American politics. http://harpers.org/archive/2017/03/good-plain-english/
+
+
 
