@@ -6,7 +6,7 @@ This repository is a collection of technical writing resources. Pull requests to
 
 ## Writing Resources
 
-[Technical Writing Resources] is a list of books and other resources to help you become a better technical writer
+[Technical Writing Resources](../../blob/master/resources.md) is a list of books and other resources to help you become a better technical writer
 
 ## Publishing Resources
 
