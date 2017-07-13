@@ -10,7 +10,7 @@ This repository is a collection of technical writing resources. Pull requests to
 
 ## Publishing Resources
 
-[Publishing Resources] provides information on where you can publish your technical posts, and who will pay you for them.
+[Publishing Resources](./blob/master/write-fo-us.md) provides information on where you can publish your technical posts, and who will pay you for them.
 
 
 ## About
