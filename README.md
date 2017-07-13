@@ -6,11 +6,11 @@ This repository is a collection of technical writing resources. Pull requests to
 
 ## Writing Resources
 
-[Technical Writing Resources](../../blob/master/resources.md) is a list of books and other resources to help you become a better technical writer
+[Technical Writing Resources](./resources.md) is a list of books and other resources to help you become a better technical writer
 
 ## Publishing Resources
 
-[Publishing Resources](./blob/master/write-fo-us.md) provides information on where you can publish your technical posts, and who will pay you for them.
+[Publishing Resources](./write-fo-us.md) provides information on where you can publish your technical posts, and who will pay you for them.
 
 
 ## About
