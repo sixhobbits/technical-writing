@@ -2,7 +2,7 @@
 
 A collection of places to publish your writing, with a focus on those that pay for content.
 
-Once you've honed your technical writing skills with the collection of resources here FIXME, you'll want to start getting your writing out there where people can read it. A common way to start is by creating a Blogger, Wordpress or equivalent page, writing a hello world post, posting another article a week or so later, maybe one more a month later, get discouraged by the fact that you have no viewers, and then an article every 6-12 months starting with "I haven't written on here in a while because...".
+Once you've honed your technical writing skills with the collection of resources [here](../resources.md), you'll want to start getting your writing out there where people can read it. A common way to start is by creating a Blogger, Wordpress or equivalent page, writing a hello world post, posting another article a week or so later, maybe one more a month later, get discouraged by the fact that you have no viewers, and then an article every 6-12 months starting with "I haven't written on here in a while because...".
 
 While writing for free for the community is noble, writing is a valued skill, and you can get paid for it. If you write for established companies, you get money and you reach more people, as these companies usually have existing blogs that have an established readership base. Also, by commiting to write for a place that pays you, the quality of your content will improve. You'll try harder, and often the company will have an editor go over your work and improve it before publishing.
 
