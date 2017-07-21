@@ -10,7 +10,7 @@ Vonnegut presents 8 concise rules. He reminds us to 'sound like ourselves' -- so
 This aims at language use for user interfaces, but it has many nice rules with concrete, short examples for each. The sections on Tone and Punctuation are applicable to general technical writing.
 
 ### Essays on CIA writing
-This is an interesting, but not that useful, collection of essays about writing well. They are from 1962 and were originally classified, but have since been released. You'll find the usual "avoid the passive voice and jargon" type of advice. The original essays can be found here https://www.cia.gov/library/readingroom/docs/CIA-RDP78-00915R001400200001-3.pdf and a higher-level write up about them here https://www.muckrock.com/news/archives/2017/jul/14/cias-style-guide/
+This is an interesting, but not that useful, collection of essays about writing well. They are from 1962 and were originally classified, but have since been released. You'll find the usual "avoid the passive voice and jargon" type of advice. The original essays can be found here https://www.cia.gov/library/readingroom/docs/CIA-RDP78-00915R001400200001-3.pdf and a higher level write-up about them here https://www.muckrock.com/news/archives/2017/jul/14/cias-style-guide/
 
 ## Books
 
