@@ -25,6 +25,11 @@ This book teaches the lost art of rhetoric in a highly entertaining fashion. Eac
 ### 'On Writing' by Stephen King
 This book is half an autobiography of Stephen King and half writing advice. Although it is aimed more at fiction writers, the advice is generic and sound and the personal describing the hardships King went through before becoming a famous writer are inspiring.
 
+### 'Practical Typography' by Matthew Butterick
+Formatting and layout of text on a page or screen is an area of writing that's often overlooked or thought of as "someone else's job". However, with the modern prevalence of independent web publishing, where the writer and typographer will often be the same person, it's useful to know the basics of good typography. In describing their typography, Butterick also covers concepts valuable to technical writers such as effective emphasis and how to best present lists and hierarchies of headings.
+
+The book is availabe online only at http://practicaltypography.com/ -- as payment, Butterick encourages a donation or a purchase of one of his excellent fonts.
+
 ## Meta
 *Something as meta as writing about writing would be complete without a meta section of its own. Here are some articles that already collect and describe other works on writing.*
 
