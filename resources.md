@@ -12,6 +12,9 @@ This aims at language use for user interfaces, but it has many nice rules with c
 ### Essays on CIA writing
 This is an interesting, but not that useful, collection of essays about writing well. They are from 1962 and were originally classified, but have since been released. You'll find the usual "avoid the passive voice and jargon" type of advice. The original essays can be found here https://www.cia.gov/library/readingroom/docs/CIA-RDP78-00915R001400200001-3.pdf and a higher level write-up about them here https://www.muckrock.com/news/archives/2017/jul/14/cias-style-guide/
 
+### Writers Stack Exchange, The 'rules' of writing
+A crowd-sourced list of axioms and rules of writing, along with descriptions, thoughts, and examples. You can find the whole list at [https://writers.stackexchange.com/questions/761/the-rules-of-writing](https://writers.stackexchange.com/questions/761/the-rules-of-writing)
+
 ## Books
 
 ### 'On Writing Well: The Classic Guide to Writing Nonfiction' by William Zinsser
