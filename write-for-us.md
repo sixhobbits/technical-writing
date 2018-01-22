@@ -9,6 +9,9 @@ While writing for free for the community is noble, writing is a valued skill, an
 # Places that pay for writing
 Here's a collection of places looking for freelance technical writers. The going rate is usually about $200 per post.
 
+## [Twilio Voices](https://go.twilio.com/twilio-voices/)
+Twilio pays $500 per published post. Tutorials have to contain code, and writers are encouraged (but not required) to make use of Twilio services for their tutorials.
+
 ## [Digital Ocean](https://www.digitalocean.com/community/get-paid-to-write)
 Digital Ocean pays writers up to $200 to write about installing and configuring software on Digital Ocean VPS droplets. While they focus on things like setting up web servers and databases, they also pay for more generic programming content about Python. They publish articles under a Creative Commons license.
 
