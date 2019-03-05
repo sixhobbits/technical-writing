@@ -13,18 +13,18 @@ Here's a collection of places looking for freelance technical writers. The going
 Twilio pays $500 per published post. Tutorials have to contain code, and writers are encouraged (but not required) to make use of Twilio services for their tutorials.
 
 ## [Digital Ocean](https://www.digitalocean.com/community/get-paid-to-write)
-Digital Ocean pays writers up to $200 to write about installing and configuring software on Digital Ocean VPS droplets. While they focus on things like setting up web servers and databases, they also pay for more generic programming content about Python. They publish articles under a Creative Commons license.
+Digital Ocean pays writers $300 to write about Python or JavaScript projects or to write tutorials showing how to install and use software (for example, installing Apache2 on Ubuntu). They match the payout with a charitable donation. 
+
+## [WonderProxy](https://wonderproxy.com/blog/looking-for-authors/)
+WonderProxy focuses on automated testing and pays up to $500 for technical tutorials in this area.
 
 ## [Paperspace](https://blog.paperspace.com/write-for-paperspace/)
-Paperspace pays up to $200 for posts about machine learning
-
-## [Compose.io](https://www.compose.com/articles/write-stuff-compose-articles/) 
-Compose.io pays writers to write about databases. They are a fully-managed database-as-a-service company, so if you write a walkthrough about how to set up or use a database, they expect you to use their product in the article. They also give $200 credit for each article along with the cash payout. They publish articles under a Creative Commons license.
+Paperspace offers GPU credit on their platform in return for tutorials.
 
 # Writing for exposure
 
 If you can string sentences together and know a bit about tech, your writing is worth something. However, sometimes it's worthwhile writing for exposure, especially if you haven't written much and you want a portfolio to show off when you pitch to places that pay. Here are some places where you can write for exposure.
 
 ## [CodeMentor.io](https://www.codementor.io/)
-CodeMentor is a mentoring platform where you can get paid by the hour to help people out with issues they face while coding. If you create a profile with codementor, you can publish technical posts and associate them with your profile. CodeMentor promotes selected articles on their main page every day, and this is a good way to get more mentees. 
+CodeMentor is a mentoring platform where you can get paid by the hour to help people out with issues they face while coding. If you create a profile with codementor, you can publish technical posts and associate them with your profile. CodeMentor promotes selected articles on their main page every day, and this is a good way to get more mentees. You can also apply to write for their blog or community more formally, in which case they'll provide you with an editor to help all the way from outlining through to publication.
 
