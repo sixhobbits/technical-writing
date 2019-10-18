@@ -42,8 +42,6 @@ The book is availabe online only at http://practicaltypography.com/ -- as paymen
 ### 'The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century' by Steven Pinker
 Linguist Steven Pinker takes an analytical approach to writing in this style guide, with chapters about reverse-engineering good prose, seeing the grammatical trees in sentences in order to untangle them, and how a writer's intimate knowledge of a subject may distort their writings about it (the biggest problem with much academic and technical writing). Much time is also spent investigating the rules of English grammar and dispelling the many myths that have grown up around it.
 
-
-
 ## Meta
 *Something as meta as writing about writing would be complete without a meta section of its own. Here are some articles that already collect and describe other works on writing.*
 
