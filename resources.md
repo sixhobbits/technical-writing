@@ -20,6 +20,12 @@ A crowd-sourced list of axioms and rules of writing, along with descriptions, th
 ### 'On Writing Well: The Classic Guide to Writing Nonfiction' by William Zinsser
 Zinsser describes writing as a craft, comparing it to carpentry. He focuses on teaching you how to edit, claiming that first drafts are never good. The earlier chapters provide general writing and editing advice, while the later ones are topic-specific and cover travel writing, technical writing, memoir writing, etc. 
 
+### 'Trees, maps and theorems' by Jean-luc Doumont 
+Doumont runs training courses on scientific and technical communication. His book, subtitled 'Effective communication for rational minds', is aimed at technical people who want detailed and practical advice about how to communicate clearly. It does this in a highly structured way with plenty of examples. Later chapters also give advice on presentations, graphical displays and posters. It's also an obsessively edited book. Each minimalist double-page spread has one column of body text and three other columns for common questions, illustrations and examples –– and if you look closely you'll see that the paragraphs have been tweaked to be perfectly rectangular. 
+
+### 'Style: Toward Clarity and Grace' by Joseph M. Williams
+A slightly older book but still very worth a read. William's strength lies in identifying and naming what it is about difficult sentences that actually makes them difficult for humans to parse. The book starts at the level of individual sentences, walks through plenty of examples of how to polish them for maximal clarity, and later moves onto showing how to build coherent paragraphs and larger bits of text. 
+
 *The following books are not specific to technical writing. However, their advice on general writing definitely applies to technical writing as well*
 
 ### 'The Elements of Eloquence' by Mark Forsyth
@@ -35,6 +41,8 @@ The book is availabe online only at http://practicaltypography.com/ -- as paymen
 
 ### 'The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century' by Steven Pinker
 Linguist Steven Pinker takes an analytical approach to writing in this style guide, with chapters about reverse-engineering good prose, seeing the grammatical trees in sentences in order to untangle them, and how a writer's intimate knowledge of a subject may distort their writings about it (the biggest problem with much academic and technical writing). Much time is also spent investigating the rules of English grammar and dispelling the many myths that have grown up around it.
+
+
 
 ## Meta
 *Something as meta as writing about writing would be complete without a meta section of its own. Here are some articles that already collect and describe other works on writing.*
