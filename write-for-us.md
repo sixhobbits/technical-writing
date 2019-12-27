@@ -18,14 +18,14 @@ Digital Ocean pays writers $300 to write about Python or JavaScript projects or 
 ## [WonderProxy](https://wonderproxy.com/blog/looking-for-authors/)
 WonderProxy focuses on automated testing and pays up to $500 for technical tutorials in this area.
 
+## [Linode](https://www.linode.com/docs/contribute/)
+Linode is a VPS host that offers up to $300 for technical tutorials relating to Linux.
+
 ## [Smashing Magazine](https://www.smashingmagazine.com/write-for-us/)
 Smashing Magazine is a longstanding publication that publishes all types of articles for app and web developers and designers. They advertise rates of $200 USD per post.
 
 ## [FloydHub](https://blog.floydhub.com/write-for-floydhub/)
 FloydHub publishes technical tutorials on data science, AI, and ML. They are known to pay $150 per article in USD or platform credits.
-
-## [Paperspace](https://blog.paperspace.com/write-for-paperspace/)
-Paperspace offers GPU credit on their platform in return for tutorials.
 
 # Writing for exposure
 
