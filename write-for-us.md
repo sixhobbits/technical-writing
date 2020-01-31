@@ -18,6 +18,9 @@ Digital Ocean pays writers $300 to write about Python or JavaScript projects or 
 ## [WonderProxy](https://wonderproxy.com/blog/looking-for-authors/)
 WonderProxy focuses on automated testing and pays up to $500 for technical tutorials in this area.
 
+## [ClubHouse](https://clubhouse.io/clubhouse-write-earn-give-program/)
+ClubHouse pays between $350 and $600 and publishes blog posts and tutorials aimed at more senior people: "with a particular focus on engineering leads, managers and VPs/CTOs."
+
 ## [Linode](https://www.linode.com/docs/contribute/)
 Linode is a VPS host that offers up to $300 for technical tutorials relating to Linux.
 
