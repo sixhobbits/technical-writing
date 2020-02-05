@@ -1,8 +1,8 @@
 # Makers' Retrospectives
 
 There is a growing tradition in the overlapping communities of Makers, 
-sol[open startups](https://hackernoon.com/what-does-it-mean-to-be-an-open-startup-f4446984189), 
-and [open startups](https://www.merriam-webster.com/dictionary/solopreneur) to write retrospetives at regular intervals.
+[open startups](https://hackernoon.com/what-does-it-mean-to-be-an-open-startup-f4446984189), 
+and [solopreneurs](https://www.merriam-webster.com/dictionary/solopreneur) to write retrospetives at regular intervals.
 
 These retrospectives may be daily, weekly, monthly, or yearly, or some combination of this and look back at recent progress, 
 comparing it to goals, and analysing what went right and what could have gone better.
