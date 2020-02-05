@@ -8,6 +8,6 @@ These retrospectives may be daily, weekly, monthly, or yearly, or some combinati
 comparing it to goals, and analysing what went right and what could have gone better.
 
 
-[Cory Zue](http://www.coryzue.com/writing/), [twitter](https://twitter.com/czue)
-[Michael Lynch](https://mtlynch.io/retrospectives/), [twitter](https://twitter.com/deliberatecoder)
-[Jesse Szepieniec](https://jessems.com/my-january-2020-retrospective/), [twitter](https://twitter.com/jessems)
+* [Cory Zue](http://www.coryzue.com/writing/), [twitter](https://twitter.com/czue)
+* [Michael Lynch](https://mtlynch.io/retrospectives/), [twitter](https://twitter.com/deliberatecoder)
+* [Jesse Szepieniec](https://jessems.com/my-january-2020-retrospective/), [twitter](https://twitter.com/jessems)
