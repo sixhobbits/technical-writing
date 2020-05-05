@@ -12,4 +12,5 @@ Here are some makers whose retrospectives I have enjoyed (in alphabetical order)
 * [Michael Lynch](https://mtlynch.io/retrospectives/) ([twitter](https://twitter.com/deliberatecoder))
 * [Jesse Szepieniec](https://jessems.com/my-january-2020-retrospective/) ([twitter](https://twitter.com/jessems))
 * [Cory Zue](http://www.coryzue.com/writing/) ([twitter](https://twitter.com/czue))
-
+* [Aaron Taylor](https://atay.me/posts/april-in-review/) ([twitter](https://twitter.com/TheAaronTaylor))
+* [Gareth Dwyer](https://sixhobbits.github.io/hugoblog/posts/2020-q1-retrospective/) ([twitter](https://twitter.com/sixhobbits))
