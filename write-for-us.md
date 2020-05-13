@@ -40,3 +40,6 @@ If you can string sentences together and know a bit about tech, your writing is 
 ## [CodeMentor.io](https://www.codementor.io/)
 CodeMentor is a mentoring platform where you can get paid by the hour to help people out with issues they face while coding. If you create a profile with codementor, you can publish technical posts and associate them with your profile. CodeMentor promotes selected articles on their main page every day, and this is a good way to get more mentees. You can also apply to write for their blog or community more formally, in which case they'll provide you with an editor to help all the way from outlining through to publication.
 
+## [Dev.to](https://www.dev.to/)
+DEV is a community of software developers getting together to help one another by sharing helpful content in form of technical post, videos and in general helpful discussions. You can publish your content directly once you create a profile or crosspost content from your personal blog if you've got one. The community is welcoming and friendly so it's a great place to grow and get exposure.
+
