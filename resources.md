@@ -43,7 +43,7 @@ The book is availabe online only at http://practicaltypography.com/ -- as paymen
 Linguist Steven Pinker takes an analytical approach to writing in this style guide, with chapters about reverse-engineering good prose, seeing the grammatical trees in sentences in order to untangle them, and how a writer's intimate knowledge of a subject may distort their writings about it (the biggest problem with much academic and technical writing). Much time is also spent investigating the rules of English grammar and dispelling the many myths that have grown up around it.
 
 ## Meta
-*Something as meta as writing about writing would be complete without a meta section of its own. Here are some articles that already collect and describe other works on writing.*
+*Something as meta as writing about writing would not be complete without a meta section of its own. Here are some articles that already collect and describe other works on writing.*
 
 ### Good Plain English: The problem with writing manuals 
 Nat Segnit discusses six books about writing. Nat gives some entertaining examples, some focused on contemporary American politics. http://harpers.org/archive/2017/03/good-plain-english/
