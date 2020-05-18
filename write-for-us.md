@@ -20,7 +20,7 @@ WonderProxy focuses on automated testing and pays up to $500 for technical tutor
 
 ## [FusionAuth](https://fusionauth.io/blog/)
 FusionAuth accepts contributions of 1000-2000 word technical blog posts. They pay $500/post and you get the byline.
-They have a number of client libraries ( https://fusionauth.io/docs/v1/tech/client-libraries/ ) and have a pressing need to to get blog posts outlining how to use each one. They're also happy to discuss other possible topics such as OAuth, how to use tokens to protect APIs or integration with a particular CMS.
+They have a number of client libraries ( https://fusionauth.io/docs/v1/tech/client-libraries/ ) and have a pressing need to to get blog posts outlining how to use each one. They're also happy to discuss other possible topics such as OAuth, how to use tokens to protect APIs or integration with a particular CMS. You can reach out to them at marketing |at| fusionauth.io.
 
 ## [Honeybadger.io](https://www.honeybadger.io/blog/write-for-us/)
 Honeybadger is an exception monitoring service which pays writers $500/post. The posts are usually about larger computing topics as they apply to Ruby development. For example, "Everything about character encoding for Rubyists." They do occasionally feature posts about languages other than Ruby. Posts are usually 1500-2500 words and should include code. They don't have to relate to Honeybadger's business of exception monitoring.
