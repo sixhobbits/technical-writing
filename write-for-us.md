@@ -18,6 +18,9 @@ Digital Ocean pays writers $300 to write about Python or JavaScript projects or 
 ## [WonderProxy](https://wonderproxy.com/blog/looking-for-authors/)
 WonderProxy focuses on automated testing and pays up to $500 for technical tutorials in this area.
 
+## [LWN](https://lwn.net/op/AuthorGuide.lwn)
+LWN produces articles on Linux and free software. They pay $300 to new authors, but this can be increased for regular authors. There is some related discussion [in this HN thread](https://news.ycombinator.com/item?id=23920240).
+
 ## [FusionAuth](https://fusionauth.io/blog/)
 FusionAuth accepts contributions of 1000-2000 word technical blog posts. They pay $500/post and you get the byline.
 They have a number of client libraries ( https://fusionauth.io/docs/v1/tech/client-libraries/ ) and have a pressing need to to get blog posts outlining how to use each one. They're also happy to discuss other possible topics such as OAuth, how to use tokens to protect APIs or integration with a particular CMS. You can reach out to them at marketing |at| fusionauth.io.
