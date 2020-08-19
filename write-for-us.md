@@ -34,6 +34,9 @@ ClubHouse pays between $350 and $600 and publishes blog posts and tutorials aime
 ## [Linode](https://www.linode.com/docs/contribute/)
 Linode is a VPS host that offers up to $300 for technical tutorials relating to Linux.
 
+## [Vultr](https://www.vultr.com/docs/vultr-docs-program-guidelines)
+Vultr is a VPS provider similar to DigitalOcean and Linode that offers up to $300 for articles on server administration and applications.
+
 ## [Smashing Magazine](https://www.smashingmagazine.com/write-for-us/)
 Smashing Magazine is a longstanding publication that publishes all types of articles for app and web developers and designers. They advertise rates of $200 USD per post.
 
