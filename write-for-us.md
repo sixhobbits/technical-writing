@@ -28,6 +28,9 @@ They have a number of client libraries ( https://fusionauth.io/docs/v1/tech/clie
 ## [Honeybadger.io](https://www.honeybadger.io/blog/write-for-us/)
 Honeybadger is an exception monitoring service which pays writers $500/post. The posts are usually about larger computing topics as they apply to Ruby development. For example, "Everything about character encoding for Rubyists." They do occasionally feature posts about languages other than Ruby. Posts are usually 1500-2500 words and should include code. They don't have to relate to Honeybadger's business of exception monitoring.
 
+## [LogRocket](https://blog.logrocket.com/become-a-logrocket-guest-author-7d970eb673f9/)
+LogRocket offers up to $300 for topics focussed on front end development, for example React, Redux, Vue.js, webpack, Wasm, MobX, GraphQL, JavaScript, Frontend development best practices, Product/UI/UX design.
+
 ## [ClubHouse](https://clubhouse.io/clubhouse-write-earn-give-program/)
 ClubHouse pays between $350 and $600 and publishes blog posts and tutorials aimed at more senior people: "with a particular focus on engineering leads, managers and VPs/CTOs."
 
