@@ -44,6 +44,11 @@ This is an interesting, but not that useful, collection of essays about writing 
 ### Writers Stack Exchange, The 'rules' of writing
 A crowd-sourced list of axioms and rules of writing, along with descriptions, thoughts, and examples. You can find the whole list at [https://writers.stackexchange.com/questions/761/the-rules-of-writing](https://writers.stackexchange.com/questions/761/the-rules-of-writing)
 
+## Videos
+
+### The Craft of Writing Effectively by Larry McEnerney
+Aimed at academics, but very generally applicable writing advice, and why everything you learnt in school is probably wrong. You can find it [here on YouTube](https://www.youtube.com/watch?v=vtIzMaLkCaM)
+
 ## Meta
 *Something as meta as writing about writing would not be complete without a meta section of its own. Here are some articles that already collect and describe other works on writing.*
 
