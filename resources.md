@@ -32,6 +32,10 @@ This book is, as you may have guessed from the title, specific to technical blog
 
 ## Articles
 
+### 'Writing well' by Julian Shapiro
+
+A free handbook in five parts that covers what to write about and how to rewrite to be clear and succinct, [available online at julian.com](https://www.julian.com/guide/write/intro).
+
 ### 'How to Write with Style' by Kurt Vonnegut
 Vonnegut presents 8 concise rules. He reminds us to 'sound like ourselves' -- something which is perhaps more difficult but still important in technical writing. http://www.novelr.com/2008/08/16/vonnegut-how-to-write-with-style.
 
