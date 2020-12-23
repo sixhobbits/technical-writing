@@ -12,6 +12,9 @@ This repository is a collection of technical writing resources. Pull requests to
 
 [Publishing Resources](./write-for-us.md) provides information on where you can publish your technical posts, and who will pay you for them.
 
+## Technical writing communities
+[Communities](./communities.md) is a list of communities focused on technical writing.
+
 ## Retrospectives 
 [Retrospectives](./retrospectives.md) is a list of makers and solopreneurs who write retrospectives on their businesses and progress. Although not directly technical writing, these people tend to be interested in both writing and building technical projects, and offer good examples of technical writing in their other posts too.
 
