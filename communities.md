@@ -10,3 +10,18 @@ This is the largest community of technical writers. You can find out more about 
 
 ## [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/)
 Focused on leadership and management, but there are active #writing and #i-wrote-something channels where some writers hang out. [Request an invite here](https://randsinrepose.com/welcome-to-rands-leadership-slack/).
+
+## [ISTC](http://www.istc.org.uk/about-the-istc/)
+The Institute of Scientific and Technical Communicators is the largest UK body representing information development professionals.
+It is a professional association for Technical Authors,technical Content Strategists, Information Designers,
+Publication Managers, Documentation Managers, Information Developers, Technical Illustrators and Translators.
+ 
+ ## [STC](https://www.stc.org/)
+ The Society for Technical Communication is the oldest professional association dedicated to the advancement of the field of technical communication.
+  
+ ## LinkedInGroups
+ Members only groups on LinkedIn
+ 
+  1.Technical Writer Forum
+  
+  2.Documentation and Technical Writing Management
