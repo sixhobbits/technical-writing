@@ -53,6 +53,12 @@ A crowd-sourced list of axioms and rules of writing, along with descriptions, th
 ### The Craft of Writing Effectively by Larry McEnerney
 Aimed at academics, but very generally applicable writing advice, and why everything you learnt in school is probably wrong. You can find it [here on YouTube](https://www.youtube.com/watch?v=vtIzMaLkCaM)
 
+## Style Guides
+
+### The DigitalOcean Style Guide
+
+Used for all tutorials on the DigitalOcean community, [this style guide](do.co/style) is opinionated but a good starting point for writing tutorials that are widely accessible and engaging.
+
 ## Meta
 *Something as meta as writing about writing would not be complete without a meta section of its own. Here are some articles that already collect and describe other works on writing.*
 
