@@ -56,7 +56,6 @@ Aimed at academics, but very generally applicable writing advice, and why everyt
 ## Style Guides
 
 ### The DigitalOcean Style Guide
-
 Used for all tutorials on the DigitalOcean community, [this style guide](do.co/style) is opinionated but a good starting point for writing tutorials that are widely accessible and engaging.
 
 ### Google Technical Writing Courses
