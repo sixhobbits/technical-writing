@@ -56,8 +56,12 @@ Aimed at academics, but very generally applicable writing advice, and why everyt
 ## Style Guides
 
 ### The DigitalOcean Style Guide
-
 Used for all tutorials on the DigitalOcean community, [this style guide](do.co/style) is opinionated but a good starting point for writing tutorials that are widely accessible and engaging.
+
+## Courses 
+
+### Google Technical Writing Courses
+A collection of courses for writing clearer technical documentation and improving technical communication skills. The [pre-class material](https://developers.google.com/tech-writing/overview) is a helpful guide. There are also [in-class materials and exercises](https://developers.google.com/tech-writing/for-instructors) available to practice technical writing.
 
 ## Meta
 *Something as meta as writing about writing would not be complete without a meta section of its own. Here are some articles that already collect and describe other works on writing.*
