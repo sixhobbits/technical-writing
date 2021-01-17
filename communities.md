@@ -10,3 +10,6 @@ This is the largest community of technical writers. You can find out more about 
 
 ## [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/)
 Focused on leadership and management, but there are active #writing and #i-wrote-something channels where some writers hang out. [Request an invite here](https://randsinrepose.com/welcome-to-rands-leadership-slack/).
+
+## Brian P. Hogan's Discord
+Brian is an Editorial Manager at Digital Ocean and is known in the community for technical writing, editing, and mentoring. He runs a private Discord server for writers and content creators. You can request an invite by [contacting Brian](https://bphogan.com/).
