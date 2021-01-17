@@ -18,6 +18,8 @@ This repository is a collection of technical writing resources. Pull requests to
 ## Retrospectives 
 [Retrospectives](./retrospectives.md) is a list of makers and solopreneurs who write retrospectives on their businesses and progress. Although not directly technical writing, these people tend to be interested in both writing and building technical projects, and offer good examples of technical writing in their other posts too.
 
+## Software and Tools
+[Software and Tools](./software-and-tools.md) is a list of writing tools and other automated programs built to support writers.
 
 ## About
 I have been writing technical articles on a freelance basis for a number of years. I'm always surprised that while there are thousands of posts and resources out there relating to helping you become a better (programmer|founder|data scientist|anything else) there is very little about technical writing, and many people don't even know that technical writing is a thing that exists and that pays. 
