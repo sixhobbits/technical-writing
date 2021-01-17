@@ -68,6 +68,3 @@ A collection of courses for writing clearer technical documentation and improvin
 
 ### Good Plain English: The problem with writing manuals 
 Nat Segnit discusses six books about writing. Nat gives some entertaining examples, some focused on contemporary American politics. http://harpers.org/archive/2017/03/good-plain-english/
-
-
-
