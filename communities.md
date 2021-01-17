@@ -10,3 +10,6 @@ This is the largest community of technical writers. You can find out more about 
 
 ## [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/)
 Focused on leadership and management, but there are active #writing and #i-wrote-something channels where some writers hang out. [Request an invite here](https://randsinrepose.com/welcome-to-rands-leadership-slack/).
+
+## [/r/TechnicalWriting](https://www.reddit.com/r/technicalwriting/)
+"For people who take the unbelievably complicated things that scientists and engineers devise and make it understandable for non-technical people."

@@ -59,11 +59,21 @@ Aimed at academics, but very generally applicable writing advice, and why everyt
 
 Used for all tutorials on the DigitalOcean community, [this style guide](do.co/style) is opinionated but a good starting point for writing tutorials that are widely accessible and engaging.
 
+## Linters
+
+### Alex
+
+[Alex](https://github.com/get-alex/alex) is a command-line utility that find gender favoring, polarizing, race related, religion inconsiderate, or other unequal phrasing in a document.
+
+### Proselint
+
+[Proselint](https://github.com/amperser/proselint) is a command-line utility that is meant to be integrated into other tools. Proselint is a command line function that, like a spell checker, scans through a document and analyzes it, and gives suggestive corrections.
+
+### Vale
+[Vale](https://github.com/errata-ai/vale) is a command-line tool that brings code-like linting to prose. Vale has a rich understanding of many markup formats, allowing it to avoid syntax-related false positives and intelligently exclude code snippets from prose-related rules. Vale is capable of enforcing your style—be it a standard editorial style guide or a custom in-house set of rules.
+
 ## Meta
 *Something as meta as writing about writing would not be complete without a meta section of its own. Here are some articles that already collect and describe other works on writing.*
 
 ### Good Plain English: The problem with writing manuals 
 Nat Segnit discusses six books about writing. Nat gives some entertaining examples, some focused on contemporary American politics. http://harpers.org/archive/2017/03/good-plain-english/
-
-
-
