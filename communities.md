@@ -13,3 +13,6 @@ Focused on leadership and management, but there are active #writing and #i-wrote
 
 ## [/r/TechnicalWriting](https://www.reddit.com/r/technicalwriting/)
 "For people who take the unbelievably complicated things that scientists and engineers devise and make it understandable for non-technical people."
+
+## Brian P. Hogan's Discord
+Brian is an Editorial Manager at Digital Ocean and is known in the community for technical writing, editing, and mentoring. He runs a private Discord server for writers and content creators. You can request an invite by [contacting Brian](https://bphogan.com/).
