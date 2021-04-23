@@ -56,3 +56,5 @@ CodeMentor is a mentoring platform where you can get paid by the hour to help pe
 ## [Dev.to](https://www.dev.to/)
 DEV is a community of software developers getting together to help one another by sharing helpful content in the form of technical posts, videos and in general helpful discussions. You can publish your content directly once you create a profile or crosspost content from your personal blog if you've got one. The community is welcoming and friendly so it's a great place to grow and get exposure.
 
+## [Hashnode.com](https://www.hashnode.com/)
+Hashnode is a free developer blogging platform that allows you to publish articles on your own domain and connect with a global developer community. With Hashnode, you can see what others are interested in reading and you can backup your posts to a GitHub repository for safekeeping.
