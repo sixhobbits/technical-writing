@@ -34,6 +34,9 @@ LogRocket offers up to $300 for topics focussed on front end development, for ex
 ## [ClubHouse](https://clubhouse.io/clubhouse-write-earn-give-program/)
 ClubHouse pays between $350 and $600 and publishes blog posts and tutorials aimed at more senior people: "with a particular focus on engineering leads, managers and VPs/CTOs."
 
+## [Auth0](https://auth0.com/apollo-program)
+Auth0 pays up to $450, At the moment they are looking for people to help us create content about: Python, Mobile (Native & Cross Platform), Identity and Security,Electron, Java, .NET.
+
 ## [Linode](https://www.linode.com/docs/contribute/)
 Linode is a VPS host that offers up to $300 for technical tutorials relating to Linux.
 
