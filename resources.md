@@ -72,7 +72,7 @@ A collection of courses for writing clearer technical documentation and improvin
 
 ### Learn API Technical Writing Course Series by [Peter Gruenbaum](https://www.udemy.com/user/petergruenbaum/)
 
-A series of three courses for technical writers who want to learn how to write API documentation. They teach how to document structured data, focusing on the two most popular structured data formats: JSON and XML. If you are new to API documentation, this is a great place to start. No programming experience is required, but technical writers with programming experience who want to know more about structured data will still find it useful.
+A series of three courses for technical writers who want to learn how to write API documentation. They teach how to document structured data, focusing on the two most popular structured data formats: JSON and XML. If you are new to API documentation, this is a great place to start! No programming experience is required, but technical writers with programming experience who want to know more about structured data will still find it useful.
 
 #### [Learn API Technical Writing: JSON and XML for Writers](https://www.udemy.com/course/api-documentation-1-json-and-xml/)
 
