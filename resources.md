@@ -72,13 +72,13 @@ A collection of courses for writing clearer technical documentation and improvin
 
 ### Learn API Technical Writing Course Series by [Peter Gruenbaum](https://www.udemy.com/user/petergruenbaum/)
 
+A series of three courses for technical writers who want to learn how to write API documentation. They teach how to document structured data, focusing on the two most popular structured data formats: JSON and XML. If you are new to API documentation, this is a great place to start. No programming experience is required, but technical writers with programming experience who want to know more about structured data will still find it useful.
+
 #### [Learn API Technical Writing: JSON and XML for Writers](https://www.udemy.com/course/api-documentation-1-json-and-xml/)
 
 #### [Learn API Technical Writing 2: REST for Writers](https://www.udemy.com/course/learn-api-technical-writing-2-rest-for-writers/)
 
 #### [The Art of API Documentation](https://www.udemy.com/course/the-art-of-api-documentation/)
-
-A series of three courses for technical writers who want to learn how to write API documentation. They teach how to document structured data, focusing on the two most popular structured data formats: JSON and XML. If you are new to API documentation, this is a great place to start. No programming experience is required, but technical writers with programming experience who want to know more about structured data will still find it useful.
 
 ### [Documenting APIs: A guide for technical writers and engineers](https://idratherbewriting.com/learnapidoc/) by [Tom Johnson](https://idratherbewriting.com/learnapidoc/docapis_about_the_author.html)
 Course about writing documentation for REST APIs. You’ll learn about endpoints, parameters, data types, authentication, curl, JSON, the command line, Chrome’s Developer Console, JavaScript, and more. You’ll learn about the required sections in API documentation, analyze examples of REST API documentation from various companies, learn how to join an open-source project to get experience, and more.
