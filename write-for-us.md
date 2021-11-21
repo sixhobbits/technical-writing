@@ -49,9 +49,8 @@ Smashing Magazine is a longstanding publication that publishes all types of arti
 ## [FloydHub](https://blog.floydhub.com/write-for-floydhub/)
 FloydHub publishes technical tutorials on data science, AI, and ML. They are known to pay $150 per article in USD or platform credits.
 
-## [DRAFT.DEV](https://draft.dev/write)
-DRAFT.DEV mainly focuses on developing technical content and articles for a wide extension of startups and companies. They pay a considerable amount from $300 and above depending on the technicality of the content.
-
+## [Draft.dev](https://draft.dev/write)
+Draft.dev focuses on developing technical content and articles for startups and companies. They pay $300+ per article, depending on the technicality of the content.
 
 # Writing for exposure
 
