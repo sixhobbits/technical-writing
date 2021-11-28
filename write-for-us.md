@@ -52,6 +52,12 @@ FloydHub publishes technical tutorials on data science, AI, and ML. They are kno
 ## [Draft.dev](https://draft.dev/write)
 Draft.dev focuses on developing technical content and articles for startups and companies. They pay $300+ per article, depending on the technicality of the content.
 
+## [neptune.ai](https://neptune.ai/write-for-us)
+Netptune.ai focuses on producing technical content for Data Scientists and Machine Learning practitioners. On the same, they pay a considerable amount from $50 - $500. The rate depends on the topic idea, the scope of the article, and its relevance to the Neptune product.
+
+## [Vonage](https://learn.vonage.com/spotlight)
+Vonage is interested in technical content and tutorials on something unique and original you have built, an innovative use case, or some interesting third-party integrations that use Vonage products. Vonage offers a $500 compensation per post.
+
 # Writing for exposure
 
 If you can string sentences together and know a bit about tech, your writing is worth something. However, sometimes it's worthwhile writing for exposure, especially if you haven't written much and you want a portfolio to show off when you pitch to places that pay. Here are some places where you can write for exposure.
