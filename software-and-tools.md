@@ -17,7 +17,7 @@ In coding, 'linting' refers to automatically detecting common errors or potentia
 ### Vale
 [Vale](https://github.com/errata-ai/vale) provides linting through customized style rules. It also has a [VSCode extension](https://github.com/errata-ai/vale-vscode)
 
-## API Documentatation
+## API Documentation
 
 API documentation is a technical content deliverable, containing instructions about how to effectively use and integrate with an API.
 
