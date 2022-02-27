@@ -58,6 +58,9 @@ Netptune.ai focuses on producing technical content for Data Scientists and Machi
 ## [Vonage](https://learn.vonage.com/spotlight)
 Vonage is interested in technical content and tutorials on something unique and original you have built, an innovative use case, or some interesting third-party integrations that use Vonage products. Vonage offers a $500 compensation per post.
 
+## [Guru99](https://www.guru99.com/become-an-instructor)
+Guru99 is interested in instructors who loves to create content for their community. You can upto $5000 based on length and complexity of the course.
+
 # Writing for exposure
 
 If you can string sentences together and know a bit about tech, your writing is worth something. However, sometimes it's worthwhile writing for exposure, especially if you haven't written much and you want a portfolio to show off when you pitch to places that pay. Here are some places where you can write for exposure.
