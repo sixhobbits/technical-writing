@@ -26,7 +26,7 @@ I used to write technical articles as a freelancer. I'm always surprised that wh
 
 This is my little attempt to fill that gap. If you have suggestions for more sections, or want to add to existing sections, please submit a pull request. If you're not comfortable with git, [Tweet at me](https://twitter.com/sixhobbits) with your suggestions or use one of the other contact options at the bottom of [my website](https://dwyer.co.za).
 
-Since creating this, I founded [Ritza](https://ritza.co) - a startup that produces tutorials and documentation for companies and helps them with developer advocacy efforts. Get in touch if you're interested in our services, or if you'd be interested in [writing for us](https://github.com/ritza-co/handbook/jobs).
+Since creating this, I founded [Ritza](https://ritza.co) - a startup that produces tutorials and documentation for companies and helps them with developer advocacy efforts. Get in touch if you're interested in our services, or if you'd be interested in [writing for us](https://ritza.co/handbook/roles/general-application/).
 
 
 
