@@ -12,7 +12,7 @@ Here's a collection of places looking for freelance technical writers. The going
 ## [Twilio Voices](https://go.twilio.com/twilio-voices/)
 Twilio pays $500 per published post. Tutorials have to contain code, and writers are encouraged (but not required) to make use of Twilio services for their tutorials.
 
-## [Digital Ocean](https://www.digitalocean.com/community/get-paid-to-write)
+## [Digital Ocean](https://www.digitalocean.com/community/pages/write-for-digitalocean)
 Digital Ocean pays writers $300 to write about Python or JavaScript projects or to write tutorials showing how to install and use software (for example, installing Apache2 on Ubuntu). They match the payout with a charitable donation. 
 
 ## [WonderProxy](https://wonderproxy.com/blog/looking-for-authors/)
