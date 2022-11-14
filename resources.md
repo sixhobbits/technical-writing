@@ -62,7 +62,7 @@ A Youtube video aimed at academics, but very generally applicable writing advice
 
 ## Style Guides
 
-### [The DigitalOcean Style Guide](do.co/style)
+### [The DigitalOcean Style Guide](https://do.co/style)
 Used for all tutorials on the DigitalOcean community, this style guide is opinionated but a good starting point for writing tutorials that are widely accessible and engaging.
 
 ## Courses 
