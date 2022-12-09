@@ -15,9 +15,6 @@ This repository is a collection of technical writing resources. Pull requests to
 ## Technical writing communities
 [Communities](./communities.md) is a list of communities focused on technical writing.
 
-## Retrospectives 
-[Retrospectives](./retrospectives.md) is a list of makers and solopreneurs who write retrospectives on their businesses and progress. Although not directly technical writing, these people tend to be interested in both writing and building technical projects, and offer good examples of technical writing in their other posts too.
-
 ## Software and Tools
 [Software and Tools](./software-and-tools.md) is a list of writing tools and other automated programs built to support writers.
 
