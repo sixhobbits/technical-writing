@@ -67,3 +67,7 @@ DEV is a community of software developers getting together to help one another b
 
 ## [Hashnode.com](https://www.hashnode.com/)
 Hashnode is a free developer blogging platform that allows you to publish articles on your own domain and connect with a global developer community. With Hashnode, you can see what others are interested in reading and you can backup your posts to a GitHub repository for safekeeping.
+
+# Course platforms
+
+[Course Platforms](./course-platforms.md) are a list of online platforms that produce paid educational content. They pay contributors to create the materials that they sell to their students.
