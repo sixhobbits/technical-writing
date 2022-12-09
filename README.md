@@ -4,11 +4,11 @@ For some reason, there are only a relatively small number of people who are inte
 
 This repository is a collection of technical writing resources. Pull requests to add more resources are highly encouraged.
 
-## Writing Resources
+## Writing Resources (Become a better writer)
 
 [Technical Writing Resources](./resources.md) is a list of books and other resources to help you become a better technical writer
 
-## Publishing Resources
+## Publishing Resources (Get paid to write)
 
 [Publishing Resources](./write-for-us.md) provides information on where you can publish your technical posts, and who will pay you for them.
 
