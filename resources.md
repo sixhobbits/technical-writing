@@ -65,6 +65,12 @@ A Youtube video aimed at academics, but very generally applicable writing advice
 ### [The DigitalOcean Style Guide](https://do.co/style)
 Used for all tutorials on the DigitalOcean community, this style guide is opinionated but a good starting point for writing tutorials that are widely accessible and engaging.
 
+### [Microsoft Style Guide](https://learn.microsoft.com/en-us/style-guide/welcome/)
+Used by technical writers, editors, and content managers working with Microsoft products. You can fork the [repository](https://github.com/MicrosoftDocs/microsoft-style-guide) on Github to propose changes through a pull request.
+
+### [S1000D](https://users.s1000d.org/Default.aspx)
+Used in the Aerospace and Defense industry, S1000D is an international specification for the procurement and production of technical publications. Using XML, this comprehensive styleguide helps to facilitate improved maintenance, logistics, and after-market supportability. 
+
 ## Courses 
 
 ### Google Technical Writing Courses
