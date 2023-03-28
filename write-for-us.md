@@ -68,6 +68,9 @@ DEV is a community of software developers getting together to help one another b
 ## [Hashnode.com](https://www.hashnode.com/)
 Hashnode is a free developer blogging platform that allows you to publish articles on your own domain and connect with a global developer community. With Hashnode, you can see what others are interested in reading and you can backup your posts to a GitHub repository for safekeeping.
 
+## [freeCodeCamp News](https://freecodecamp.org/news)
+freeCodeCamp is a non-profit organization that helps make learning to code accessible to anyone. freeCodeCamp News is their free publication and says it "will help you teach developers, designers, and data scientists around the world." Read through [their style guide](https://www.freecodecamp.org/news/developer-news-style-guide/) for general writing style tips and a link to apply for a publishing account. To apply, you'll need to submit three sharable links to example writings you've published before being a contributor writer.
+
 # Course platforms
 
 [Course Platforms](./course-platforms.md) are a list of online platforms that produce paid educational content. They pay contributors to create the materials that they sell to their students.
