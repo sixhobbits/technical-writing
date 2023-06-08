@@ -55,6 +55,10 @@ A crowd-sourced list of axioms and rules of writing, along with descriptions, th
 ### [I'd Rather Be Writing](https://idratherbewriting.com/)
 A blog written by professional tech writer Tom Johnson on numerous topics including technical communication, processes for managing docs, and information usability. Most well-known for its popular [API documentation course](https://idratherbewriting.com/learnapidoc/).
 
+## Websites
+### [indoition](https://www.indoition.com)
+Website run by technical writer Marc Achtelig since 2004. Most well-known for its popular [Technical Documentation Tool and Web Guide](https://www.indoition.com/tools-websites-technical-documentation.htm), which lists hundreds of tools useful for technical writing, for its collection of free [AutoHotkey scripts for technical wrters](https://www.indoition.com/en/products/autohotkey-scripts-for-technical-documentation.htm), and for its various [code snippets for improving online documentation](https://www.indoition.com/en/products/code-snippets-for-online-documentation.htm).
+
 ## Videos
 
 ### [The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM) by Larry McEnerney
